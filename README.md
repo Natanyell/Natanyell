@@ -5,8 +5,10 @@
 <p align="left">Me chamo Natanyell, e sou Designer e Desenvolvedor web, atualmente fazendo curso de Informártica integrado ao ensino médio na escola EEEP Professora Luiza de Teodoro Vieira</p>
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natanyell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Natanyell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="143" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Natanyell&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
