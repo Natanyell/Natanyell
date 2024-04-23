@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0074E4&height=180&section=header&text=Natanyell%20Romão&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=50&descAlign=62"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0074E4&height=120&section=header"/>
 
-###
+<div align="center"> <h1>Olá, Sou Natanyell 💻</h1></div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Natanyell&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
